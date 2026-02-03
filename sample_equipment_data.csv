@@ -1,0 +1,4 @@
+name,instrument_type,manufacturer,serial_number,purchase_date,notes
+UV-Vis Spectrometer,Spectrometer,Acme Instruments,UV1234,2019-05-12,Used for absorbance measurements
+Analytical Balance,Balance,WeighTech,BAL-9876,2021-10-01,Precision 0.1 mg
+Gas Chromatograph,Chromatograph,ChromSys,GC-201,2018-02-20,Includes auto-sampler
